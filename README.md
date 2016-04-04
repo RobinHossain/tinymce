@@ -1,7 +1,5 @@
-TinyMce With file manager and Custom Teplate
-
-
-Here is the example initialization for tinyMce
+TinyMce(The rich text editor) With file/media manager and Custom Teplate.
+Example initialization:
 
 ```php 
 tinymce.init({
