@@ -1,4 +1,4 @@
-TinyMce(The rich text editor) With file/media manager and Custom Teplate.
+TinyMce(The rich text editor) With file/media manager and Custom Template.
 
 Create a folder name tinymce(you sould rename it as your choice) in your plublic directory.
 Copy these three folder(js/source/template) in your recently created folder and include tinymce link in your html page.
