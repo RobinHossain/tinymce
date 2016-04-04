@@ -3,6 +3,7 @@ TinyMce With file manager and Custom Teplate
 
 Here is the example initialization for tinyMce
 
+```php 
 tinymce.init({
             selector: '#tiny_mce_etemplate',
             height: 500,
@@ -26,3 +27,4 @@ tinymce.init({
                 {title: 'Default Template 2', description: 'High Converting Media', url: '/tinymce/template/hcm.htm'}
             ]
         });
+```
