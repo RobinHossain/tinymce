@@ -27,8 +27,8 @@ tinymce.init({
                 '//www.tinymce.com/css/codepen.min.css'
             ],
             templates: [
-                {title: 'Default Template 1', description: 'Attorney Media Marketing', url: '/tinymce/template/amn.htm'},
-                {title: 'Default Template 2', description: 'High Converting Media', url: '/tinymce/template/hcm.htm'}
+                {title: 'Default Template 1', description: 'Custom Template 1', url: '/tinymce/template/amn.htm'},
+                {title: 'Default Template 2', description: 'Custom Template 2', url: '/tinymce/template/hcm.htm'}
             ]
         });
 ```
